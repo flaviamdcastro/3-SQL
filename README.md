@@ -135,22 +135,5 @@ Os dados foram obtidos do **Tribunal Superior Eleitoral (TSE)** e estão dispon�
 
 ---
 
-## 🧪 Como Executar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seuusuario/sql-engines-tse.git
-   ```
-2. Abra os scripts no SQL Server Management Studio (SSMS) ou em sua IDE preferida.
-3. Execute os scripts de criação de tabelas (`scripts/01_criacao_tabelas.sql`).
-4. Insira os dados com os scripts fornecidos (`scripts/02_insercao_dados.sql`).
-5. Execute as consultas e procedures para obter os resultados.
-
----
-
 ## 📝 Observações
 - A entrega está organizada conforme o solicitado, com um script SQL para cada atividade.
-- Caso encontre problemas, entre em contato via e-mail ou abra uma issue neste repositório.
-
----
-
-Se precisar de mais ajustes ou formatações específicas, estou à disposição!
