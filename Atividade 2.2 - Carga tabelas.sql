@@ -166,5 +166,5 @@ PRINT 'Carga da tabela Candidato concluída com sucesso!';
 DROP TABLE dbo.Temporaria
 
 PRINT ''
-PRINT 'Fim script carga das tabelas da atividade 1'
+PRINT 'Fim script carga das tabelas da atividade 2'
 
